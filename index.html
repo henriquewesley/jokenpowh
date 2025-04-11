@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/jpg" href="./assets/logo.png" />
+  <link rel="stylesheet" href="./style.css">
+  <title>WH | JokenPô</title>
+</head>
+
+<body>
+  <section class="container">
+    <img src="./assets/logo.png" alt="wh-logo">
+    <h1>JokenPô</h1>
+    <div class="buttons">
+      <button id='rock' onclick="clickHuman('rock')"> &#x1F5FF; &#x270A;&#x1F3FE;</button>
+      <button id='paper' onclick="clickHuman('paper')">&#x1F4C3; &#x1F590;&#x1F3FC;</button>
+      <button id='scissors' onclick="clickHuman('scissors')">&#x2702; &#x270C;&#x1F3FF;</button>
+    </div>
+    <p class="result"></p>
+    <p class="score">Sua pontuação: <span id="score">0</span></p>
+    <p class="score-computer">Pontuação do computador: <span id="score-computer">0</span></p>
+  </section>
+</body>
+<script src="./scripts.js"></script>
+
+</html>
