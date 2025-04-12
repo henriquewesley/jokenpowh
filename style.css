@@ -76,3 +76,31 @@ p {
 .score-computer span {
   color: #ff0000;
 }
+
+@media (max-width: 500px) {
+  .container {
+    width: 75%;
+    height: 75%;
+  }
+
+  .container img {
+    max-width: 100px;
+  }
+
+  .container h1 {
+    font-size: 24px;
+  }
+
+  .buttons {
+    gap: 10px;
+  }
+
+  button {
+    padding: 5px;
+    font-size: 20px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+}
