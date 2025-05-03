@@ -25,11 +25,11 @@ Este projeto implementa o clássico jogo JokenPô (Pedra, Papel e Tesoura) diret
 * **JavaScript:** Lógica do jogo, incluindo a escolha aleatória do computador, a determinação do vencedor e a atualização da pontuação.
 
 ## Estrutura de Arquivos
-jokenpo/
-├── assets/
-│   └── logo.png      # Logo do projeto
-├── index.html        # Arquivo HTML principal
-├── style.css         # Arquivo de estilos CSS
+jokenpo/<br>
+├── assets/<br>
+│   └── logo.png      # Logo do projeto<br>
+├── index.html        # Arquivo HTML principal<br>
+├── style.css         # Arquivo de estilos CSS<br>
 └── scripts.js        # Arquivo JavaScript com a lógica do jogo
 
 ## Funcionalidades
@@ -58,3 +58,13 @@ jokenpo/
 ## Créditos
 
 * Desenvolvido por Wesley Henrique ®.
+
+## Contato
+
+Se você tiver alguma oportunidade de trabalho ou gostaria de discutir este projeto, sinta-se à vontade para entrar em contato:
+
+* https://www.linkedin.com/in/henriquewesley/
+* whenfeof@gmail.com
+* https://wesleyhenriqueportifolio.vercel.app/
+
+Agradeço o seu interesse!
